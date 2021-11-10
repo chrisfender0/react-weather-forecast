@@ -1,3 +1,9 @@
+add dev tools:
+- add webpack
+- add babel
+- configure webpack with babel
+https://www.toptal.com/react/webpack-react-tutorial-pt-1
+
 - build outer UI 
 - build input for zip
 - build main output card with basic info 
